@@ -1,0 +1,6 @@
+functions:
+    ['@leftr', '@rightr',  '@upper',  '@lower',  '@camelcase',   '@substr',  '@aemail']
+  
+  
+ 
+  
