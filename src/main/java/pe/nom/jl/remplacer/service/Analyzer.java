@@ -1,18 +1,12 @@
 package pe.nom.jl.remplacer.service;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
-import java.util.StringTokenizer;
-
-import pe.nom.jl.error.ParseError;
  
 
 public class Analyzer {
 	private List<String> params;
 	private List<String> functions; 
-	private ParseError error;
 	private String origin;
 
 	public Analyzer() {
@@ -27,7 +21,6 @@ public class Analyzer {
 		//functions.add("@pre");
 		
 		params= new ArrayList<>();
-		error= new ParseError();
 	}
 	/*
 	public void readString(String data) {

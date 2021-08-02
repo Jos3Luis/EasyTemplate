@@ -95,7 +95,7 @@ public class ParserFunction{
 			}
 		}
 		//reading remplaced
-		Iterator iterator = remplaced.entrySet().iterator();
+		Iterator<?> iterator = remplaced.entrySet().iterator();
         while (iterator.hasNext()) {
              Map.Entry me2 = (Map.Entry) iterator.next();
              data=data.replace(me2.getKey().toString(), me2.getValue().toString()); 
