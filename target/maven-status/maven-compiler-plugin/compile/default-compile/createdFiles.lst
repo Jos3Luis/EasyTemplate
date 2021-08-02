@@ -1,0 +1,14 @@
+pe\nom\jl\utils\Utils.class
+pe\nom\jl\remplacer\service\ParserFunction2.class
+pe\nom\jl\remplacer\service\Analyzer.class
+pe\nom\jl\error\ParseError.class
+pe\nom\jl\remplacer\service\ParserFunction.class
+pe\nom\jl\remplacer\service\ParserSystem.class
+pe\nom\jl\remplacer\service\EasyTemplateEngine.class
+pe\nom\jl\remplacer\service\TransformJava.class
+pe\nom\jl\remplacer\core\Ver.class
+pe\nom\jl\remplacer\service\Parser.class
+pe\nom\jl\config\Config.class
+pe\nom\jl\constants\Constants.class
+pe\nom\jl\remplacer\service\ParserString.class
+pe\nom\jl\remplacer\service\JavaVerificator.class
