@@ -11,9 +11,8 @@ import java.util.concurrent.Callable;
 import org.apache.commons.lang3.CharUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.text.CaseUtils;
-import org.apache.commons.validator.EmailValidator;
+import org.apache.commons.validator.routines.EmailValidator;
 
-import pe.nom.jl.constants.Constants;
 import pe.nom.jl.error.ParseError;
 
 public class ParserFunction{
